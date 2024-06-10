@@ -1,0 +1,14 @@
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.AssemblyInfoInputs.cache
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.AssemblyInfo.cs
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.csproj.CoreCompileInputs.cache
+C:\projects\c#\tp_3\bin\Debug\net7.0\tp_3.exe
+C:\projects\c#\tp_3\bin\Debug\net7.0\tp_3.deps.json
+C:\projects\c#\tp_3\bin\Debug\net7.0\tp_3.runtimeconfig.json
+C:\projects\c#\tp_3\bin\Debug\net7.0\tp_3.dll
+C:\projects\c#\tp_3\bin\Debug\net7.0\tp_3.pdb
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.dll
+C:\projects\c#\tp_3\obj\Debug\net7.0\refint\tp_3.dll
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.pdb
+C:\projects\c#\tp_3\obj\Debug\net7.0\tp_3.genruntimeconfig.cache
+C:\projects\c#\tp_3\obj\Debug\net7.0\ref\tp_3.dll
